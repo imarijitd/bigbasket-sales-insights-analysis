@@ -1,5 +1,8 @@
 # bigbasket-sales-insights-analysis
 
+![bigbasket logo](https://github.com/user-attachments/assets/c8b686bc-6133-4af9-a1fc-fea69a6df1da)
+
+
 ## Project Overview 
 This project is designed to extract critical business insights from bigbasket sales data. Excel and Power Query was being used for data pre-processing and cleaning, DAX for advanced querying and Power BI visualizations for presention of key insights. 
 
